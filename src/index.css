@@ -75,6 +75,8 @@ footer .icon {
 @media screen and (max-width: 600px) {
   .information {
     padding: 0;
+    margin-top: 40px;
+    margin-bottom: 40px;
   }
   .information img {
     width: 100%;
@@ -83,9 +85,6 @@ footer .icon {
     height: auto;
     flex-direction: column;
   }
-}
-
-@media screen and (max-width: 600px) {
   nav {
     padding: 0;
   }
